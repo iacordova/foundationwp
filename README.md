@@ -6,6 +6,14 @@ Please fork, copy, modify, delete, share or do whatever you like with this.
 
 All contributions are welcome!
 
+## This Custom
+
+Is an starter theme with the basic settings and styles, some of this integrations are:
+  * custom sass file for custom styles
+  * custom js file for custom javascript
+  * jQuery parallax plugin (including scrollTo)
+  * gray/green overall style
+
 ## Requirements
 
 **A brief explanation to the requirements** (feel free to skip this if you're a pro):
